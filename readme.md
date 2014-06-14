@@ -1,4 +1,4 @@
-# edich [![Build Status](https://travis-ci.org/hemanth/node-edich.svg?branch=master)](https://travis-ci.org/hemanth/node-edich)
+# edich
 
 > ed+which => edich => $EDITOR $(which $1).
 
