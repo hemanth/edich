@@ -1,0 +1,34 @@
+{
+  "name": "edich",
+  "version": "0.1.0",
+  "description": "ed+which => edich => $EDITOR $(which $1).",
+  "license": "MIT",
+  "repository": "hemanth/node-edich",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "http://h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "editor",
+    "which",
+    "open"
+  ], 
+  "bin": "./bin/edich.js",
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "dependencies": {
+    "editor": "^0.1.0",
+    "which": "^1.0.5"
+  }
+}
