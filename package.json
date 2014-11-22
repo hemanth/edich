@@ -1,6 +1,6 @@
 {
   "name": "edich",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "ed+which => edich => $EDITOR $(which $1).",
   "license": "MIT",
   "repository": "hemanth/node-edich",
@@ -22,7 +22,7 @@
     "editor",
     "which",
     "open"
-  ], 
+  ],
   "bin": "./bin/edich.js",
   "devDependencies": {
     "mocha": "*"
