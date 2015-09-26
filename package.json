@@ -25,10 +25,10 @@
   ],
   "bin": "./bin/edich.js",
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "2.3.3"
   },
   "dependencies": {
-    "editor": "^0.1.0",
-    "which": "^1.0.5"
+    "editor": "0.1.0",
+    "which": "1.1.2"
   }
 }
