@@ -28,7 +28,7 @@
     "mocha": "*"
   },
   "dependencies": {
-    "editor": "^0.1.0",
+    "editor": "^1.0.0",
     "which": "^1.0.5"
   }
 }
