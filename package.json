@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "editor": "^1.0.0",
-    "which": "^1.0.5"
+    "which": "^1.2.10"
   }
 }
